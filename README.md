@@ -15,7 +15,9 @@ Road-map:
 
 ---
 
-![Alt text](src/images/daily-react-070-proposal-app.png?raw=true "App UI")
+![Alt text](src/images/daily-react-070-proposal-app-1.png?raw=true "App UI")
+
+![Alt text](src/images/daily-react-070-proposal-app-2.png?raw=true "App UI")
 
 ---
 
