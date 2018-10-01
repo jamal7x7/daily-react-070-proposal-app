@@ -1,3 +1,7 @@
-https://en.wikipedia.org/wiki/Dispersion_(water_waves)
+https://zapier.com/blog/best-proposal-software/
 
-Spherical%20Waves%20_%20Academo.org%20-%20Free,%20interactive,%20education..html
+https://www.pandadoc.com/web-design-proposal-template/
+
+https://admin.typeform.com/form/GEXYdq/create
+
+https://templates.proposify.com/proposal-template/responsive-web-design/609302
